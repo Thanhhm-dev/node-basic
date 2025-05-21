@@ -1,7 +1,7 @@
 const assert = require('assert');
 
 function sayHello() {
-  return 'Hello ThanhHM';
+  return 'Hello Jenkins';
 }
 
 assert.strictEqual(sayHello(), 'Hello Jenkins');
